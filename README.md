@@ -9,4 +9,4 @@ If you would like to adapt it for your purposes, I **highly** recommend forking 
 
 ---
 
-If you have any questions, please feel free to contact me at soren42@solarian.net.
+If you have any questions, please feel free to contact me at soren42@solarian.net or join our Discord at https://solarian.net/discord.
