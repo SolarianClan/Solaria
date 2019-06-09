@@ -22,7 +22,7 @@ use Discord\Parts\User\Game;
 use Discord\Parts\WebSockets\PresenceUpdate;
 
 global $ver;
-$ver="Solaria v0.1𝛽 Build 201712151721 ©2017 jason c. kay All rights reserved.";
+$ver="Solaria v3.3𝛽 Build 201906091558 ©2019 jason c. kay All rights reserved.";
 global $apiKey;
 $apiKey = 'GET YOUR OWN KEY...';
 
